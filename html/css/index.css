@@ -5,20 +5,23 @@
 	 float: right;
 }
  nav ul {
-	 margin: 0;
+	 margin: 10;
 	 padding: 0;
 	 list-style: none;
 }
+
  nav li {
 	 display: inline-block;
 }
+
  body {
 	 background: #000000;
 	 color: #fff;
 }
  a {
-	 color: #808000
+	 color: #111101
 }
+/*
  h1 {
 	 color: #008080
 }
@@ -27,4 +30,4 @@
 }
  ol {
 	 color: #008000
-}
+} */
