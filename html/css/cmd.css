@@ -1,3 +1,19 @@
+
 ul {
     text-align: justify;
 }
+
+/*
+nav {
+    float: right;
+}
+nav ul {
+    margin: 10;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+}
+*/
